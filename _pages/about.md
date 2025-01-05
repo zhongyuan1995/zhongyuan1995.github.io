@@ -7,10 +7,10 @@ profile:
   align: right
   image: avatar.jpeg
   image_circular: true # crops the image to make it circular
-  # more_info: >
-  #   <p>2067, APB</p>
-  #   <p>Nöthnitzer Str. 46</p>
-  #   <p>Dresden, Germany</p>
+  more_info: >
+    <p>2067, APB</p>
+    <p>Nöthnitzer Str. 46</p>
+    <p>Dresden, Germany</p>
 
 news: false # includes a list of news items
 latest_posts: false # includes a list of the newest posts
