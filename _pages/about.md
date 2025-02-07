@@ -22,4 +22,4 @@ I'm a PhD student at <a href="http://ixlab.io"> Immersive Experience Lab (IXLAB)
 
 I’m currently working on my dissertation, `XR Visualizations for Exploring 3D Dynamics` (working title). A bigger picture of my research is to explore the usefulness of XR systems for productive applications `(Productive XR)`, especially for spatial data understanding and authoring.
 
-My research can be applied to support multi-user mixed reality experiences in domains such as museology, education, and <a herf="https://tu-dresden.de/ing/informatik/smt/im/projects/hybrid-spaces">art</a>.
+My research can be applied to support multi-user mixed reality experiences in domains such as museology, education, and <a href="https://tu-dresden.de/ing/informatik/smt/im/projects/hybrid-spaces">art</a>.
